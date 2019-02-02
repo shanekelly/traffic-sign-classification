@@ -1,4 +1,14 @@
-## Project: Build a Traffic Sign Recognition Program
+# Traffic Sign Detection
+
+## Setup
+
+### Download the Data
+
+Download the data from
+[here](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/traffic-signs-data.zip) and store
+the datasets in a `traffic-sign-detection/data`.
+
+# Project: Build a Traffic Sign Recognition Program
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 Overview
