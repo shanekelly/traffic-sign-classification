@@ -1,4 +1,4 @@
-# Traffic Sign Detection
+# Traffic Sign Classification
 
 ## Setup
 
