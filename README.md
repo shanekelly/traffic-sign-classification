@@ -40,7 +40,7 @@ The goals / steps of this project are the following:
 
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
 
-This README serves as my writeup for this project. My code is [here](https://github.com/shanekelly/traffic-sign-classification/blob/master/traffic_sign_classifier.ipynb).
+This README serves as my writeup for this project. My code is [here](https://github.com/shanekelly/traffic-sign-classification/blob/master/src/traffic_sign_classifier.ipynb).
 
 ### Data Set Summary & Exploration
 
