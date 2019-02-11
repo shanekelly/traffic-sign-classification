@@ -92,7 +92,7 @@ I used a LeNet model with a dropout layer added. My final model consisted of the
 
 #### 3. Describe how you trained your model. The discussion can include the type of optimizer, the batch size, number of epochs and any hyperparameters such as learning rate.
 
-To train the model, I used an Adam optimizer, a cross entropy function to define loss, a training rate of 0.009, a dropout rate of 0.5, a batch size of 100, and 10 training epochs.
+To train the model, I first used some features suggested by the Udacity course: an Adam optimizer, a cross entropy function to define loss, and 10 training epochs to keep training time low (though, I believe more epochs would lead to slightly higher model accuracy). I also modified a few of the hyperparameters through trial and error. By changing some hyperparameters and keeping what gave me the best results I also ended up with: a training rate of 0.009, a dropout rate of 0.5, and a batch size of 100.
 
 #### 4. Describe the approach taken for finding a solution and getting the validation set accuracy to be at least 0.93. Include in the discussion the results on the training, validation and test sets and where in the code these were calculated. Your approach may have been an iterative process, in which case, outline the steps you took to get to the final solution and why you chose those steps. Perhaps your solution involved an already well known implementation or architecture. In this case, discuss why you think the architecture is suitable for the current problem.
 
